@@ -1,5 +1,10 @@
 <h2 align="center">Hi 👋, I'm BichNgoc</h2>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/amor.gif" width="10">
+</p>
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngoc43456@gmail.com) 
 
