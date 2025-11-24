@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm BichNgoc</h2>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/amor.gif" width="10">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/amor.gif" width="150">
 </p>
 
 
