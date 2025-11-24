@@ -1,7 +1,9 @@
 <h2 align="center">Hi 👋, I'm BichNgoc</h2>
 
 
-![Bongo Cat](images/bongoCat.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" width="200">
+</p>
 
 
 ## 🌐 Socials:
