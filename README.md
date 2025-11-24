@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0ygiqFaX-ssAAAAd/bongo-cat-typing.gif" width="200">
+  <img src="https://raw.githubusercontent.com/BichNgoc148/BichNgoc148/main/images/bongoCat.gif" width="200">
 </p>
 
 
